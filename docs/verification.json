@@ -1,0 +1,34 @@
+[
+  {
+    "test": "Initial prompt and controls",
+    "passed": true
+  },
+  {
+    "test": "Empty canvas guarded",
+    "passed": true
+  },
+  {
+    "test": "Real handwritten three recognized",
+    "passed": true
+  },
+  {
+    "test": "Landscape keeps result and controls",
+    "passed": true
+  },
+  {
+    "test": "Landscape controls remain in screen",
+    "passed": true
+  },
+  {
+    "test": "Clear resets message",
+    "passed": true
+  },
+  {
+    "test": "Clear also clears recognition data",
+    "passed": true
+  },
+  {
+    "test": "Clear prevents stale recognition result",
+    "passed": true
+  }
+]
